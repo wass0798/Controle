@@ -1,0 +1,34 @@
+{
+  "annonces": [
+    {
+      "id": "1",
+      "date": "09/12/2020",
+      "descr": "Appartement en centre ville",
+      "email": "wassima@gmail.com",
+      "id_photo": "1",
+      "id_piece_j": "1",
+      "lat": "",
+      "lon": "",
+      "nomcomplet": "wassima Moutaouakil",
+      "prix": "2000",
+      "surface": "60m²",
+      "type_bien": "appartement",
+      "type_ops": "location"
+    },
+    {
+      "date": "08/12/2020",
+      "descr": "Villa",
+      "email": "khadija@gmail.com",
+      "id_photo": "2",
+      "id_piece_j": "2",
+      "lat": "",
+      "lon": "",
+      "nomcomplet": "khadija asaber",
+      "prix": "400000",
+      "surface": "300m²",
+      "type_bien": "Maison avec jardin",
+      "type_ops": "vente",
+      "id": "fXm1hw3"
+    }
+  ]
+}
